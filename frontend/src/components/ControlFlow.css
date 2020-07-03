@@ -1,0 +1,9 @@
+.ControlFlow {
+  max-height: calc(100% - 80px);
+  overflow-y: scroll;
+}
+
+.ControlFlow__card {
+  height: 200px;
+  margin: 20px;
+}
